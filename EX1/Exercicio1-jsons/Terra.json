@@ -1,0 +1,100 @@
+{
+    "Título": "Terra",
+    "Terra": [],
+    "Planeta principal": [],
+    "Características orbitais": [],
+    "Semieixo maior": [
+        "Semieixo maior",
+        "149 598 261 km1,00000261 UA[1]"
+    ],
+    "Periélio": [
+        "Periélio",
+        "147 098 290km0,98329134[nota 1]UA"
+    ],
+    "Afélio": [
+        "Afélio",
+        "152 098 232km1,01671388[nota 1]UA"
+    ],
+    "Excentricidade": [
+        "Excentricidade",
+        "0,01671123[1]"
+    ],
+    "Período orbital": [
+        "Período orbital",
+        "365,256363004d[2](1,000017421a)"
+    ],
+    "Velocidade orbital média": [
+        "Velocidade orbital média",
+        "107 200 km/h29,78[3]km/s"
+    ],
+    "Inclinação": [
+        "Inclinação",
+        "7,155° aoequadordoSol1,57869[4]aoplano invariável°"
+    ],
+    "Argumento do periastro": [
+        "Argumento do periastro",
+        "114,20783°[3][nota 2]"
+    ],
+    "Longitude do nó ascendente": [
+        "Longitude do nó ascendente",
+        "348,73936°[3][nota 3]"
+    ],
+    "Número desatélites": [
+        "Número desatélites",
+        "1 (Lua)"
+    ],
+    "Características físicas": [],
+    "Diâmetro equatorial": [
+        "Diâmetro equatorial",
+        "12 756,2km"
+    ],
+    "Área da superfície": [
+        "Área da superfície",
+        "510 072 000[5][6][nota 4]km²"
+    ],
+    "Volume": [
+        "Volume",
+        "1,08321×107001120000000000000♠12[3]km³"
+    ],
+    "Massa": [
+        "Massa",
+        "5,9736×107001240000000000000♠24[3]kg"
+    ],
+    "Densidade média": [
+        "Densidade média",
+        "5,515[3]g/cm³"
+    ],
+    "Gravidade equatorial": [
+        "Gravidade equatorial",
+        "9,780327 m/s²[7]0,99732g"
+    ],
+    "Período de rotação": [
+        "Período de rotação",
+        "0,99726968 d[8]23h56m4,100s"
+    ],
+    "Velocidade de escape": [
+        "Velocidade de escape",
+        "11,186[3]km/s"
+    ],
+    "Inclinação axial": [
+        "Inclinação axial",
+        "23°26'21\",4119[9]"
+    ],
+    "Albedo": [
+        "Albedo",
+        "0,367(geométrico)[3]0,306(Bond)[3]"
+    ],
+    "Temperatura": [
+        "Temperatura",
+        "média: 14[10]ºCmínima: -93,2[11]ºCmáxima: 57,8[12]ºC"
+    ],
+    "Composição da atmosfera": [],
+    "Pressão atmosférica": [
+        "Pressão atmosférica",
+        "101,325kPaao nível do mar"
+    ],
+    "NitrogênioOxigênioArgônioDióxido de carbonoVapor de água(variável com o clima)": [
+        "NitrogênioOxigênioArgônioDióxido de carbonoVapor de água(variável com o clima)",
+        "78,08%20,95%0,93%0,038%~1%"
+    ]
+}

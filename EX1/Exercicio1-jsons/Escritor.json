@@ -1,0 +1,28 @@
+{
+    "Título": "Escritor",
+    "Escritor": [],
+    "Nomes": [
+        "Nomes",
+        "escritor, autor, literato"
+    ],
+    "Tipo": [
+        "Tipo",
+        "profissão"
+    ],
+    "Setor de atividade": [
+        "Setor de atividade",
+        "Literatura"
+    ],
+    "Competências": [
+        "Competências",
+        "Proficiência linguística,gramática,alfabetização,eloquência,estilística,oratória"
+    ],
+    "Campos de trabalho": [
+        "Campos de trabalho",
+        "Literatura"
+    ],
+    "Empregos relacionados": [
+        "Empregos relacionados",
+        "Jornalista, romancista, cronista, poeta"
+    ]
+}

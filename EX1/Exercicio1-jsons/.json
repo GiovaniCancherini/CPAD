@@ -1,0 +1,40 @@
+{
+    "Título": "",
+    "": [],
+    "Autor": [
+        "Autor",
+        "Free Software Foundation"
+    ],
+    "Última versão": [
+        "Última versão",
+        "1.3[1]"
+    ],
+    "Editora": [
+        "Editora",
+        "Free Software Foundation, Inc."
+    ],
+    "Publicado": [
+        "Publicado",
+        "Versão atual3 de Novembro de 2008"
+    ],
+    "Compatível comDFSG": [
+        "Compatível comDFSG",
+        "Sim, se não conter seções invariantes"
+    ],
+    "Aprovado pelaFSF": [
+        "Aprovado pelaFSF",
+        "Sim"
+    ],
+    "Compatível com GPL": [
+        "Compatível com GPL",
+        "Não"
+    ],
+    "Copyleft": [
+        "Copyleft",
+        "Sim"
+    ],
+    "Website": [
+        "Website",
+        "www.gnu.org/licenses/fdl.html"
+    ]
+}

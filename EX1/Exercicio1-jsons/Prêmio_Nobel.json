@@ -1,0 +1,24 @@
+{
+    "Título": "Prêmio Nobel",
+    "Prêmio Nobel": [],
+    "Descrição": [
+        "Descrição",
+        "Contribuições destacadas para a humanidade emFísica,Química,Fisiologia ou Medicina,LiteraturaePaz"
+    ],
+    "Organização": [
+        "Organização",
+        "Academia SuecaComité Nobel daAcademia Real das Ciências da SuéciaComitê do Nobel doInstituto KarolinskaComitê Norueguês do Nobel"
+    ],
+    "Local": [
+        "Local",
+        "Estocolmo,SuéciaOslo,Noruega(apenas o prêmio para aPaz)"
+    ],
+    "País": [
+        "País",
+        "Suécia(todos os prêmios, exceto o da Paz)Noruega(apenas Prêmio da Paz)"
+    ],
+    "Primeira cerimónia": [
+        "Primeira cerimónia",
+        "1901(124 anos)"
+    ]
+}

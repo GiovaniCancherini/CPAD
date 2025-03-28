@@ -1,0 +1,40 @@
+{
+    "Título": "Alfabeto árabe",
+    "Alfabeto árabe": [],
+    "Tipo": [
+        "Tipo",
+        "Abjad"
+    ],
+    "Línguas": [
+        "Línguas",
+        "árabee outras (ver abaixo)"
+    ],
+    "Período de tempo": [
+        "Período de tempo",
+        "c.Século IV[1]— presente"
+    ],
+    "Status": [
+        "Status",
+        "Escrita oficial de 19 países:ListaArábia SauditaAfeganistãoArgéliaBahreinCatarEgitoEmirados Árabes UnidosIêmenIrãIraqueJordâniaKuwaitLíbanoMauritâniaMarrocosLíbiaOmãSíriaTunísiaEscrita cooficial em 9 países:ListaBruneiComorosChadeDjiboutiEritreiaPalestinaPaquistãoSomáliaSudãoEscrita oficial dasNações Unidas"
+    ],
+    "Sistemas-pais": [
+        "Sistemas-pais",
+        "Hieróglifos egípciosEscrita proto-sinaíticaAlfabeto fenícioAlfabeto aramaicoEscrita nabateiaAlfabeto árabe"
+    ],
+    "Sistemas-filhos": [
+        "Sistemas-filhos",
+        "Alfabeto N'ko"
+    ],
+    "Direção": [
+        "Direção",
+        "Direita-para-esquerda"
+    ],
+    "ISO 15924": [
+        "ISO 15924",
+        "Arab, 160"
+    ],
+    "Conjunto de carateresUnicode": [
+        "Conjunto de carateresUnicode",
+        "U+0600–U+06FFArabic,U+0750–U+077FArabic Supplement,U+0870-U+089FArabic Extended-B,U+08A0–U+08FFArabic Extended-A,U+FB50–U+FDFFArabic Presentation Forms-A,U+FE70–U+FEFFArabic Presentation Forms-B,U+1EE00–U+1EEFFArabic Mathematical Alphabetic Symbols"
+    ]
+}

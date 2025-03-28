@@ -1,0 +1,20 @@
+{
+    "Título": "Cardiologia",
+    "Cardiologia": [],
+    "Sistema": [
+        "Sistema",
+        "Cardíaco"
+    ],
+    "Foco": [
+        "Foco",
+        "Coração e seu bom funcionamento"
+    ],
+    "Doenças significativas": [
+        "Doenças significativas",
+        "Hipertensão arterial, hipotensão arterial, enfarte agudos do miocárdio, arritmia cardíaca (etc)"
+    ],
+    "Testes significativos": [
+        "Testes significativos",
+        "Eletrocardiograma, monitorização ambulatorial da pressão arterial (MAPA), holter, ecocardiograma e outros (etc)"
+    ]
+}

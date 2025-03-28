@@ -1,0 +1,36 @@
+{
+    "Título": "Político",
+    "Político": [],
+    "Nomes": [
+        "Nomes",
+        "PresidenteSenadorPrimeiro-ministroMinistroParlamentarGovernadorPrefeitoVereador"
+    ],
+    "Tipo": [
+        "Tipo",
+        "Política"
+    ],
+    "Setor de atividade": [
+        "Setor de atividade",
+        "Governo"
+    ],
+    "Competências": [
+        "Competências",
+        "LiderançaPensamento críticoOratóriaLegislarTomada de decisãoInfluenciaretc..."
+    ],
+    "Educação requirida": [
+        "Educação requirida",
+        "Qualificação não é necessária"
+    ],
+    "Campos de trabalho": [
+        "Campos de trabalho",
+        "Governo"
+    ],
+    "Empregos relacionados": [
+        "Empregos relacionados",
+        "Monarca"
+    ],
+    "Salário médio": [
+        "Salário médio",
+        "(Brasil)R$ 19.000 - R$ 39.000 mensais."
+    ]
+}

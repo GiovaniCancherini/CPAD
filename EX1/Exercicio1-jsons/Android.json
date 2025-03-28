@@ -1,0 +1,62 @@
+{
+    "Título": "Android",
+    "Android": [],
+    "Versão do sistema operativoUnix;Linux": [],
+    "Produção": [
+        "Produção",
+        "Google LLCOpen Handset Alliance"
+    ],
+    "Linguagem": [
+        "Linguagem",
+        "Java(UI),C(núcleo),C++,Rust,[1]entre outras[2]"
+    ],
+    "Modelo": [
+        "Modelo",
+        "Código abertocom aplicações comsoftwarede código fechado[3][4]"
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "23 de setembrode2008(16 anos)"
+    ],
+    "Versão estável": [
+        "Versão estável",
+        "15.04 de fevereiro de 2025; há 48 dias"
+    ],
+    "Mercado-alvo": [
+        "Mercado-alvo",
+        "SmartphonesTabletsTelevisores conectados(Android TV)Android AutoRelógios inteligentes(Wear OS)"
+    ],
+    "Idioma(s)": [
+        "Idioma(s)",
+        "Multilinguagem(63 idiomas)"
+    ],
+    "Método deatualização": [
+        "Método deatualização",
+        "Over the Air"
+    ],
+    "Arquitetura(s)": [
+        "Arquitetura(s)",
+        "ARM,MIPS[5],Power[6],x86[7],x64[8]"
+    ],
+    "Gestão de pacotes": [
+        "Gestão de pacotes",
+        "APK,Google Play"
+    ],
+    "Núcleo": [
+        "Núcleo",
+        "Monolítico(núcleo Linuxmodificado)"
+    ],
+    "Interface": [
+        "Interface",
+        "Gráfico"
+    ],
+    "Licença": [
+        "Licença",
+        "Apache2.0, patches do kernelLinuxestão sob aGPLv2[9]"
+    ],
+    "Página oficial": [
+        "Página oficial",
+        "www.android.com"
+    ],
+    "Estado de desenvolvimento": []
+}

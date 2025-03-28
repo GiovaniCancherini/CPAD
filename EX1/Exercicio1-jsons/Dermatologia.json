@@ -1,0 +1,20 @@
+{
+    "Título": "Dermatologia",
+    "Dermatologia": [],
+    "Sistema": [
+        "Sistema",
+        "Tegumentar"
+    ],
+    "Foco": [
+        "Foco",
+        "Doenças que envolvam pele, unhas e cabelos"
+    ],
+    "Doenças significativas": [
+        "Doenças significativas",
+        "Queimaduras, cancros de pele, acnes, alergias na pele, fungos..."
+    ],
+    "Glossário": [
+        "Glossário",
+        "Nome oriundo de \"derme\" parte superficial da pele humana"
+    ]
+}

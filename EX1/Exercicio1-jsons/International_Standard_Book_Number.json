@@ -1,0 +1,32 @@
+{
+    "Título": "International Standard Book Number",
+    "International Standard Book Number": [],
+    "Acrónimo": [
+        "Acrónimo",
+        "ISBN"
+    ],
+    "Introduzido": [
+        "Introduzido",
+        "1970; há 55 anos"
+    ],
+    "Organização gestora": [
+        "Organização gestora",
+        "International ISBN Agency"
+    ],
+    "Número de digítos": [
+        "Número de digítos",
+        "13 (anteriomente 10)"
+    ],
+    "Dígito verificador": [
+        "Dígito verificador",
+        "Weighted sum"
+    ],
+    "Exemplo": [
+        "Exemplo",
+        "978-3-16-148410-0"
+    ],
+    "Sítio Web": [
+        "Sítio Web",
+        "www.isbn-international.org"
+    ]
+}

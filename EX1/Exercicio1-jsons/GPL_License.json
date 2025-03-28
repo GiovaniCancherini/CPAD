@@ -1,0 +1,40 @@
+{
+    "Título": "GPL License",
+    "GPL License": [],
+    "Autor": [
+        "Autor",
+        "Free Software Foundation"
+    ],
+    "Última versão": [
+        "Última versão",
+        "3"
+    ],
+    "Publicado": [
+        "Publicado",
+        "29 de Junho de 2007"
+    ],
+    "Compatível comDFSG": [
+        "Compatível comDFSG",
+        "Sim[1]"
+    ],
+    "Aprovado pelaFSF": [
+        "Aprovado pelaFSF",
+        "Sim[2]"
+    ],
+    "Aprovado pelaOSI": [
+        "Aprovado pelaOSI",
+        "Sim[3]"
+    ],
+    "Copyleft": [
+        "Copyleft",
+        "Sim[2]"
+    ],
+    "Pode ser ligado a código com licença diferente": [
+        "Pode ser ligado a código com licença diferente",
+        "Não (Só é permitido linking com licenças compatíveis com a GPLv3)"
+    ],
+    "Website": [
+        "Website",
+        "www.gnu.org/licenses/gpl.html"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "Título": "Neurologia",
+    "Neurologia": [],
+    "Sistema": [
+        "Sistema",
+        "Neurológico"
+    ],
+    "Foco": [
+        "Foco",
+        "O bom funcionamento neurológico e cuidado com seus órgãos (cérebro, coluna cervical e outros...)"
+    ],
+    "Doenças significativas": [
+        "Doenças significativas",
+        "Neuropatia,demência,acidente vascular cerebral,encefalopatia,doença de Parkinson,epilepsia,meningite,distrofia muscular,enxaqueca..."
+    ],
+    "Testes significativos": [
+        "Testes significativos",
+        "Tomografia axial computadorizada,ressonância magnética,punção lombar,eletroencefalografia"
+    ]
+}

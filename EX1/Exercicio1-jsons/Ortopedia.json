@@ -1,0 +1,20 @@
+{
+    "Título": "Ortopedia",
+    "Ortopedia": [],
+    "Sistema": [
+        "Sistema",
+        "Esquelético"
+    ],
+    "Foco": [
+        "Foco",
+        "Diagnosticar, tratar e corrigir enfermidades, lesões e deformidades ósseas, dos músculos, dos tendões, articulações e ligamentos"
+    ],
+    "Doenças significativas": [
+        "Doenças significativas",
+        "hérnia de disco,luxação,tendinite,condromalácia patelar,artralgias,artrose,osteófito,joanete,dedo do pé em martelo"
+    ],
+    "Testes significativos": [
+        "Testes significativos",
+        "Tomografia axial computadorizada,ressonância magnética,densitometria óssea,ultrassonografia"
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "Título": "A-10 Thunderbolt II",
+    "A-10 Thunderbolt II": [],
+    "Descrição": [],
+    "Tipo / Missão": [
+        "Tipo / Missão",
+        "Aeronave de ataque ao solo, suporte e observador de linha de frente, com motoresturbofan,bijatomonoplano"
+    ],
+    "País de origem": [
+        "País de origem",
+        "Estados Unidos"
+    ],
+    "Fabricante": [
+        "Fabricante",
+        "Fairchild Republic"
+    ],
+    "Período de produção": [
+        "Período de produção",
+        "1972-1984"
+    ],
+    "Quantidade produzida": [
+        "Quantidade produzida",
+        "716"
+    ],
+    "Custo unitário": [
+        "Custo unitário",
+        "US$18.8 milhões (1994)"
+    ],
+    "Primeiro voo em": [
+        "Primeiro voo em",
+        "10 de maiode1972(52 anos)"
+    ],
+    "Introduzido em": [
+        "Introduzido em",
+        "marçode1977"
+    ],
+    "Variantes": [
+        "Variantes",
+        "YA-10AA-10AOA-10AYA-10BA-10CA-10PCASA-10\"civil\""
+    ],
+    "Tripulação": [
+        "Tripulação",
+        "1"
+    ],
+    "Especificações (Modelo: A-10A)": [],
+    "Dimensões": [],
+    "Comprimento": [
+        "Comprimento",
+        "16,26m(53,3ft)"
+    ],
+    "Envergadura": [
+        "Envergadura",
+        "17,53m(57,5ft)"
+    ],
+    "Altura": [
+        "Altura",
+        "4,47m(14,7ft)"
+    ],
+    "Área das asas": [
+        "Área das asas",
+        "47m²(506ft²)"
+    ],
+    "Alongamento": [
+        "Alongamento",
+        "6.5"
+    ],
+    "Peso(s)": [],
+    "Peso vazio": [
+        "Peso vazio",
+        "11 321kg(25 000lb)"
+    ],
+    "Peso carregado": [
+        "Peso carregado",
+        "21 361kg(47 100lb)"
+    ],
+    "Peso máx. de decolagem": [
+        "Peso máx. de decolagem",
+        "23 000kg(50 700lb)"
+    ],
+    "Propulsão": [],
+    "Motor(es)": [
+        "Motor(es)",
+        "2 xturbofansGeneral Electric TF34-GE-100A"
+    ],
+    "Força de empuxo(por motor)": [
+        "Força de empuxo(por motor)",
+        "4 111kgf(40 300N)"
+    ],
+    "Performance": [],
+    "Velocidade máxima": [
+        "Velocidade máxima",
+        "833km/h(450kn)"
+    ],
+    "Velocidade de cruzeiro": [
+        "Velocidade de cruzeiro",
+        "560km/h(302kn)"
+    ],
+    "Alcance bélico": [
+        "Alcance bélico",
+        "467km(290mi)"
+    ],
+    "Alcance (MTOW)": [
+        "Alcance (MTOW)",
+        "4 150km(2 580mi)"
+    ],
+    "Teto máximo": [
+        "Teto máximo",
+        "13 700m(44 900ft)"
+    ],
+    "Razão de subida": [
+        "Razão de subida",
+        "30m/s"
+    ],
+    "Aviônica": [],
+    "Tipo(s) de radar(es)": [
+        "Tipo(s) de radar(es)",
+        "AN/AAS-35(V) Pave Penny laser tracker podHead up display"
+    ],
+    "Contramedidaseletrônicas": [
+        "Contramedidaseletrônicas",
+        "SUU-42A/A dispensador de flares e chaff ouECMAN/ALQ-131 ou AN/ALQ-184 ouSniper Advanced Targeting Pod ou AN/AAQ-28(V) LITENING"
+    ],
+    "Armamentos": [],
+    "Metralhadoras/Canhões": [
+        "Metralhadoras/Canhões",
+        "1x 30 mm GAU-8/A Gatling gun"
+    ],
+    "Foguetes": [
+        "Foguetes",
+        "4× LAU-61/LAU-68 com 19× / 7× Hydra 70 mm4× LAU-5003 com 19× CRV7 70 mm6× LAU-10 com 4× 127 mm (5.0 in) Zuni rockets"
+    ],
+    "Mísseis": [
+        "Mísseis",
+        "AR-AR 2 AIM-9 SidewinderAR Solo AGM-65 Maverick (todos os tipos);"
+    ],
+    "Bombas": [
+        "Bombas",
+        "Mark 80 ouMark 77 incendiária ouBombas de fragmentação BLU-1, BLU-27/B Rockeye II, Mk20, BL-755 e CBU-52/58/71/87/89/97 ouPaveway ouJDAMouWCMD"
+    ],
+    "Notas": []
+}

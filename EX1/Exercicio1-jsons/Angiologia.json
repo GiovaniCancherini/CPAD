@@ -1,0 +1,20 @@
+{
+    "Título": "Angiologia",
+    "Angiologia": [],
+    "Sistema": [
+        "Sistema",
+        "Circulatório"
+    ],
+    "Foco": [
+        "Foco",
+        "Doenças relacionadas a artérias, veias e deficiências circulatórias"
+    ],
+    "Subdivisões": [
+        "Subdivisões",
+        "Angiologia clínica e angiologia cirúrgica"
+    ],
+    "Doenças significativas": [
+        "Doenças significativas",
+        "Varizes,aneurismas,obstruções arteriais"
+    ]
+}

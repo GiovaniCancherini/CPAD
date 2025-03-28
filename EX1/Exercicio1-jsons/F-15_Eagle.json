@@ -1,0 +1,133 @@
+{
+    "Título": "F-15 Eagle",
+    "F-15 Eagle": [],
+    "Descrição": [],
+    "Tipo / Missão": [
+        "Tipo / Missão",
+        "Caçamultifunções"
+    ],
+    "País de origem": [
+        "País de origem",
+        "Estados Unidos"
+    ],
+    "Fabricante": [
+        "Fabricante",
+        "McDonnell DouglasBoeing Defense, Space & Security"
+    ],
+    "Período de produção": [
+        "Período de produção",
+        "1976-presente"
+    ],
+    "Quantidade produzida": [
+        "Quantidade produzida",
+        "F-15A/B/C/D/J/DJ: 1198"
+    ],
+    "Custo unitário": [
+        "Custo unitário",
+        "F-15A/B:US$28 milhões {1998)F-15C/D: US$ 38 milhões (1998)"
+    ],
+    "Primeiro voo em": [
+        "Primeiro voo em",
+        "27  de julhode1972(52 anos)"
+    ],
+    "Introduzido em": [
+        "Introduzido em",
+        "9  de janeirode1976"
+    ],
+    "Tripulação": [
+        "Tripulação",
+        "1"
+    ],
+    "Especificações (Modelo: F-15C)": [],
+    "Dimensões": [],
+    "Comprimento": [
+        "Comprimento",
+        "19,43m(63,7ft)"
+    ],
+    "Envergadura": [
+        "Envergadura",
+        "13,05m(42,8ft)"
+    ],
+    "Altura": [
+        "Altura",
+        "5,63m(18,5ft)"
+    ],
+    "Área das asas": [
+        "Área das asas",
+        "56,5m²(608ft²)"
+    ],
+    "Alongamento": [
+        "Alongamento",
+        "3"
+    ],
+    "Peso(s)": [],
+    "Peso vazio": [
+        "Peso vazio",
+        "12 700kg(28 000lb)"
+    ],
+    "Peso carregado": [
+        "Peso carregado",
+        "20 200kg(44 500lb)"
+    ],
+    "Peso máx. de decolagem": [
+        "Peso máx. de decolagem",
+        "30 845kg(68 000lb)"
+    ],
+    "Propulsão": [],
+    "Motor(es)": [
+        "Motor(es)",
+        "2 xturbofansPratt & Whitney F100-100 ou PW F100-200"
+    ],
+    "Força de empuxo(por motor)": [
+        "Força de empuxo(por motor)",
+        "10 781kgf(106 000N)"
+    ],
+    "Performance": [],
+    "Velocidade máxima": [
+        "Velocidade máxima",
+        "2 665km/h(1 440kn)"
+    ],
+    "Velocidade máx. emMach": [
+        "Velocidade máx. emMach",
+        "2,5Ma"
+    ],
+    "Alcance bélico": [
+        "Alcance bélico",
+        "1 967km(1 220mi)"
+    ],
+    "Alcance (MTOW)": [
+        "Alcance (MTOW)",
+        "5 550km(3 450mi)"
+    ],
+    "Teto máximo": [
+        "Teto máximo",
+        "20 000m(65 600ft)"
+    ],
+    "Razão de subida": [
+        "Razão de subida",
+        "254m/s"
+    ],
+    "Aviônica": [],
+    "Tipo(s) de radar(es)": [
+        "Tipo(s) de radar(es)",
+        "Radares:Raytheon AN/APG-63ouRaytheon AN/APG-70ouRaytheon AN/APG-63(V)1 ouRaytheon AN/APG-63(V)2 Active Electronically Scanned Array (AESA) ouRaytheon AN/APG-63(V)3 Active Electronically Scanned Array (AESA)Joint Helmet Mounted Cueing System"
+    ],
+    "Contramedidaseletrônicas": [
+        "Contramedidaseletrônicas",
+        "PodNGES AN/ALQ-131Hazeltine AN/APX-76ouRaytheon AN/APX-119MagnavoxAN/ALQ-128LoralAN/ALR-56NGES ALQ-135MarconiAN/ALE-45Chaff/Flares"
+    ],
+    "Armamentos": [],
+    "Metralhadoras/Canhões": [
+        "Metralhadoras/Canhões",
+        "1x canhãoM61 Vulcande 20mm(0,79in)"
+    ],
+    "Mísseis": [
+        "Mísseis",
+        "4xAIM-7 Sparrow4xAIM-9 Sidewinder8xAIM-120 AMRAAM"
+    ],
+    "Bombas": [
+        "Bombas",
+        "Mark 82Mark 84GBU-10GBU-31"
+    ],
+    "Notas": []
+}

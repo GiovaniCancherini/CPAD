@@ -1,0 +1,36 @@
+{
+    "Título": "Alfabeto latino",
+    "Alfabeto latino": [],
+    "Tipo": [
+        "Tipo",
+        "Alfabeto"
+    ],
+    "Línguas": [
+        "Línguas",
+        "Diversas línguas"
+    ],
+    "Período de tempo": [
+        "Período de tempo",
+        "Século VIII/VII a.C. — presente"
+    ],
+    "Sistemas-pais": [
+        "Sistemas-pais",
+        "Hieróglifos egípciosEscrita proto-sinaíticaAlfabeto fenícioAlfabeto gregoAntigas escritas itálicasAlfabeto Latino"
+    ],
+    "Sistemas-filhos": [
+        "Sistemas-filhos",
+        "Numerososalfabetos latinos,Silabário cherokee(em partes)"
+    ],
+    "Direção": [
+        "Direção",
+        "Esquerda-para-direita"
+    ],
+    "ISO 15924": [
+        "ISO 15924",
+        "Latn, 215"
+    ],
+    "Conjunto de carateresUnicode": [
+        "Conjunto de carateresUnicode",
+        "U+0000 to U+007ELatim básico e pontuação"
+    ]
+}

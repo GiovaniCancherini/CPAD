@@ -1,0 +1,20 @@
+{
+    "Título": "Infectologia",
+    "Infectologia": [],
+    "Sistema": [
+        "Sistema",
+        "Infectológico"
+    ],
+    "Foco": [
+        "Foco",
+        "Tratamento de doenças infecciosas"
+    ],
+    "Doenças significativas": [
+        "Doenças significativas",
+        "Viroses, fungos malignos, bactérias malignas, protozoários malignos..."
+    ],
+    "Testes significativos": [
+        "Testes significativos",
+        "Hemogramas, coprocultura e urocultura"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "Título": "Linux",
+    "Linux": [],
+    "Versão do sistema operativobaseado emUnix": [],
+    "Produção": [
+        "Produção",
+        "Linus Torvalds, Comunidade"
+    ],
+    "Linguagem": [
+        "Linguagem",
+        "PrincipalmenteCeAssembly"
+    ],
+    "Modelo": [
+        "Modelo",
+        "Principalmentecódigo aberto,software proprietáriotambém está disponível."
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "17 de setembro de 1991; há 33 anos"
+    ],
+    "Versão estável": [
+        "Versão estável",
+        "6.13"
+    ],
+    "Versão em teste": [
+        "Versão em teste",
+        "6.13-rc1(1 de dezembro de 2024; há 3 meses)[±][1]"
+    ],
+    "Mercado-alvo": [
+        "Mercado-alvo",
+        "Computadores pessoais,dispositivos móveis,dispositivos embarcados,servidores,mainframes,supercomputadores"
+    ],
+    "Arquitetura(s)": [
+        "Arquitetura(s)",
+        "Alpha,AMD64, ARC,ARM,C6x, H8/300, Hexagon,Itanium,m68k, Microblaze,MIPS, NDS32, Nios II,OpenRISC,PA-RISC,PowerPC,RISC-V,s390,SuperH,SPARC, Unicore32,x86, XBurst, Xtensa"
+    ],
+    "Núcleo": [
+        "Núcleo",
+        "Monolítico(Linux)"
+    ],
+    "Licença": [
+        "Licença",
+        "GNU GPLv2/ outras (o nome \"Linux\" é uma marca comercial[2])"
+    ],
+    "Página oficial": [
+        "Página oficial",
+        "kernel.orglinuxfoundation.org"
+    ],
+    "Estado de desenvolvimento": []
+}
