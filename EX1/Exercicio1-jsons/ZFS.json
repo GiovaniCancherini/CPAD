@@ -1,0 +1,67 @@
+{
+    "Título": "ZFS",
+    "ZFS": [],
+    "Desenvolvedor": [
+        "Desenvolvedor",
+        "Oracle Corporation"
+    ],
+    "Nome completo": [
+        "Nome completo",
+        "ZFS"
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "Novembro de 2005 (OpenSolaris)"
+    ],
+    "Estruturas": [],
+    "Conteúdos de diretório": [
+        "Conteúdos de diretório",
+        "Tabela de Hash Extensível"
+    ],
+    "Limites": [],
+    "Tamanho Máximo de arquivo": [
+        "Tamanho Máximo de arquivo",
+        "264bytes (16EiB)"
+    ],
+    "Número máximo de arquivos": [
+        "Número máximo de arquivos",
+        "Por diretório: 248Por sistema de arquivos: ilimitado"
+    ],
+    "Tamanho máximo do nome de arquivo": [
+        "Tamanho máximo do nome de arquivo",
+        "255 caracteresASCII(menor em codificações de caracteres multibyte como o Unicode)"
+    ],
+    "Tamanho máximo do volume": [
+        "Tamanho máximo do volume",
+        "256 quatrilhões dezebibytes(2128bytes)"
+    ],
+    "Recursos": [],
+    "Bifurcações": [
+        "Bifurcações",
+        "Sim (chamado Atributos estendidos)"
+    ],
+    "Atributos": [
+        "Atributos",
+        "POSIX"
+    ],
+    "Permissões de sistema de arquivos": [
+        "Permissões de sistema de arquivos",
+        "POSIX,NFSv4ACLs"
+    ],
+    "Compressão transparente": [
+        "Compressão transparente",
+        "Sim"
+    ],
+    "Criptografia transparente": [
+        "Criptografia transparente",
+        "Sim"
+    ],
+    "Armazenamento de caso único": [
+        "Armazenamento de caso único",
+        "Não"
+    ],
+    "Sistemas operativossuportados": [
+        "Sistemas operativossuportados",
+        "Solaris,OpenSolaris, distribuições illumos,OpenIndiana,FreeBSD,macOS Server 10.5(suporte somente leitura),NetBSD,Linuxatravés de módulo do kernel externo ou ZFS-FUSE, OSv"
+    ]
+}

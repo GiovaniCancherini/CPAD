@@ -1,0 +1,76 @@
+{
+    "Título": "Ubuntuvde",
+    "Ubuntuvde": [],
+    "Desenvolvedor": [
+        "Desenvolvedor",
+        "Canonical Ltd/ Fundação Ubuntu"
+    ],
+    "Arquiteturas": [
+        "Arquiteturas",
+        "armppcppc64s390xx86x86-64"
+    ],
+    "Modelo do desenvolvimento": [
+        "Modelo do desenvolvimento",
+        "Software Livre"
+    ],
+    "Lançado em": [
+        "Lançado em",
+        "20 de outubrode2004(20 anos)"
+    ],
+    "Versãoestável": [
+        "Versãoestável",
+        "Ubuntu 24.10 (Oracular Oriole)[1]/ 10 de outubro de 2024; há 5 meses"
+    ],
+    "Versãoem teste": [
+        "Versãoem teste",
+        "Ubuntu 24.10 Beta (Oracular Oriole)[2][5]/ 20 de setembro de 2024; há 6 meses"
+    ],
+    "Língua natural": [
+        "Língua natural",
+        "Multilíngue"
+    ],
+    "Mercado-alvo": [
+        "Mercado-alvo",
+        "Usuários comuns, Usuários avançados, Usuários deMacouWindows,empresas,Servidores,desktops,notebooks,Internet das coisas,Computação em nuvem"
+    ],
+    "Família": [
+        "Família",
+        "Debian"
+    ],
+    "Núcleo": [
+        "Núcleo",
+        "Linux"
+    ],
+    "Método deatualização": [
+        "Método deatualização",
+        "dpkg/Synaptic"
+    ],
+    "Gerenciamento de pacotes": [
+        "Gerenciamento de pacotes",
+        "APT"
+    ],
+    "Interface": [
+        "Interface",
+        "Unity/GNOME"
+    ],
+    "Licença": [
+        "Licença",
+        "GNUeGPLcomo principais e outras licenças de softwares livres e/ou de softwares prioritários."
+    ],
+    "Estado do desenvolvimento": [
+        "Estado do desenvolvimento",
+        "Corrente"
+    ],
+    "Website": [
+        "Website",
+        "ubuntu.com"
+    ],
+    "Posição noDistrowatch": [
+        "Posição noDistrowatch",
+        "7ª(eminglês,emcastelhano,emfrancês,emalemão,emtcheco/checo,emjaponêseemchinês)."
+    ],
+    "Origem comum": [
+        "Origem comum",
+        "Ilha de Man"
+    ]
+}

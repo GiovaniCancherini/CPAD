@@ -1,0 +1,29 @@
+{
+    "Título": "Câncer",
+    "Câncer": [],
+    "Especialidade": [
+        "Especialidade",
+        "oncologia"
+    ],
+    "Classificação e recursos externos": [],
+    "CID-10": [
+        "CID-10",
+        "C80,C80.1"
+    ],
+    "CID-9": [
+        "CID-9",
+        "199"
+    ],
+    "CID-CID-O": [
+        "CID-CID-O",
+        "8000/3"
+    ],
+    "DiseasesDB": [
+        "DiseasesDB",
+        "28843"
+    ],
+    "MedlinePlus": [
+        "MedlinePlus",
+        "001289"
+    ]
+}

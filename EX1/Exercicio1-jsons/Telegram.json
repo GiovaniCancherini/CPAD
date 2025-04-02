@@ -1,0 +1,60 @@
+{
+    "Título": "Telegram",
+    "Telegram": [],
+    "Autor": [
+        "Autor",
+        "Nikolai Durov,Pavel Durov"
+    ],
+    "Desenvolvedor": [
+        "Desenvolvedor",
+        "Telegram FZ LLCTelegram Messenger Inc."
+    ],
+    "Plataforma": [
+        "Plataforma",
+        "Multiplataforma"
+    ],
+    "Modelo do desenvolvimento": [
+        "Modelo do desenvolvimento",
+        "GNU GPLv2 or GPLv3(clients), proprietary (server)"
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "14 de agosto de 2013; há 11 anos"
+    ],
+    "Versãoestável": [
+        "Versãoestável",
+        "10.14.5(HarmonyOS)10.14.2(iOS)10.14.5(Android)2.1.0(Cliente WebK)10.9.8(Cliente WebA)5.2.3PC/Mac/Linux(30 de junho de 2024; há 8 meses)"
+    ],
+    "Versão em teste": [
+        "Versão em teste",
+        "[+/-]"
+    ],
+    "Idioma(s)": [
+        "Idioma(s)",
+        "Inglês,Árabe,Espanhol,Alemão,Neerlandês,Italiano,Português,Coreano,Francês,Malaio,Indonésio,Russo,Ucraniano, turco, catalão, persa e bielorrusso"
+    ],
+    "Escrito em": [
+        "Escrito em",
+        "C++"
+    ],
+    "Sistema operacional": [
+        "Sistema operacional",
+        "HarmonyOS,Android,iOS,MS Windows,OS X,GNU/Linux,"
+    ],
+    "Gênero(s)": [
+        "Gênero(s)",
+        "Mensageiro instantâneo"
+    ],
+    "Licença": [
+        "Licença",
+        "Clientes:GPLServidor:Proprietário"
+    ],
+    "Estado do desenvolvimento": [
+        "Estado do desenvolvimento",
+        "Ativo"
+    ],
+    "Página oficial": [
+        "Página oficial",
+        "https://telegram.org/"
+    ]
+}

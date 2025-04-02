@@ -1,0 +1,32 @@
+{
+    "Título": "JSTOR",
+    "JSTOR": [],
+    "Requer pagamento?": [
+        "Requer pagamento?",
+        "Sim (a maior parte)"
+    ],
+    "Gênero": [
+        "Gênero",
+        "Portal (internet)"
+    ],
+    "Cadastro": [
+        "Cadastro",
+        "Sim"
+    ],
+    "País de origem": [
+        "País de origem",
+        "Estados Unidos"
+    ],
+    "Idioma(s)": [
+        "Idioma(s)",
+        "Inglês"
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "1995"
+    ],
+    "Endereço eletrônico": [
+        "Endereço eletrônico",
+        "http://www.jstor.org"
+    ]
+}

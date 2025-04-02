@@ -1,0 +1,44 @@
+{
+    "Título": "Genebra",
+    "Genebra": [],
+    "Cantão": [
+        "Cantão",
+        "Genebra"
+    ],
+    "Distrito": [
+        "Distrito",
+        "O cantão de Genebra não se divide emdistritos."
+    ],
+    "Código postal": [
+        "Código postal",
+        "8953"
+    ],
+    "Língua oficial": [
+        "Língua oficial",
+        "francês"
+    ],
+    "População": [
+        "População",
+        "201 741 hab."
+    ],
+    "Densidade": [
+        "Densidade",
+        "12 000 hab./km²"
+    ],
+    "Coordenadas": [
+        "Coordenadas",
+        "46° 12' N 6° 9' E"
+    ],
+    "Altitude": [
+        "Altitude",
+        "378 m"
+    ],
+    "Área": [
+        "Área",
+        "15,86 km²"
+    ],
+    "Websiteoficial": [
+        "Websiteoficial",
+        "www.ville-geneve.ch"
+    ]
+}

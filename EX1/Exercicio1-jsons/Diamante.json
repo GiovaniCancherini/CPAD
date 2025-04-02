@@ -1,0 +1,87 @@
+{
+    "Título": "Diamante",
+    "Diamante": [],
+    "Categoria": [
+        "Categoria",
+        "Minerais Nativos"
+    ],
+    "Cor": [
+        "Cor",
+        "Tipicamente amarelo, marrom ou cinza a incolor. Menos frequente azul, verde, preto, translúcido branco, rosa, violeta, laranja, roxo e vermelho."
+    ],
+    "Fórmula química": [
+        "Fórmula química",
+        "C"
+    ],
+    "Propriedadescristalográficas": [],
+    "Sistema cristalino": [
+        "Sistema cristalino",
+        "(Cúbico)"
+    ],
+    "Hábito cristalino": [
+        "Hábito cristalino",
+        "Octaedro"
+    ],
+    "Propriedadesópticas": [],
+    "Transparência": [
+        "Transparência",
+        "Transparenteà subtransparente até translúcido"
+    ],
+    "Índice refrativo": [
+        "Índice refrativo",
+        "2 418 (em 500 nm)"
+    ],
+    "Birrefringência": [
+        "Birrefringência",
+        "Nenhum"
+    ],
+    "dispersão": [
+        "dispersão",
+        "0,044"
+    ],
+    "Pleocroísmo": [
+        "Pleocroísmo",
+        "Nenhum"
+    ],
+    "Fluorescência ultravioleta": [
+        "Fluorescência ultravioleta",
+        "Incolor"
+    ],
+    "Propriedades físicas": [],
+    "Polimento": [
+        "Polimento",
+        "Adamantinoa"
+    ],
+    "Peso molecular": [
+        "Peso molecular",
+        "12,01 ul=g/mol"
+    ],
+    "Peso específico": [
+        "Peso específico",
+        "3,52 +/- 0,01"
+    ],
+    "Densidade": [
+        "Densidade",
+        "3,5–3,53g/cm3"
+    ],
+    "Dureza": [
+        "Dureza",
+        "10"
+    ],
+    "Ponto de fusão": [
+        "Ponto de fusão",
+        "Dependente de pressão"
+    ],
+    "Clivagem": [
+        "Clivagem",
+        "111 (perfeito em quatro direções)"
+    ],
+    "Fratura": [
+        "Fratura",
+        "Concoidal"
+    ],
+    "Brilho": [
+        "Brilho",
+        "Adamantino"
+    ]
+}

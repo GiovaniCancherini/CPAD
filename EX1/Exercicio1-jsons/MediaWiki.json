@@ -1,0 +1,52 @@
+{
+    "Título": "MediaWiki",
+    "MediaWiki": [],
+    "Desenvolvedor": [
+        "Desenvolvedor",
+        "Wikimedia Foundation"
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "25 de janeirode2002(23 anos)"
+    ],
+    "Versãoestável": [
+        "Versãoestável",
+        "1.43[1](21 de dezembro de 2024; há 3 meses[2])"
+    ],
+    "Idioma(s)": [
+        "Idioma(s)",
+        "mais de 300 idiomas"
+    ],
+    "Escrito em": [
+        "Escrito em",
+        "PHP"
+    ],
+    "Sistema operacional": [
+        "Sistema operacional",
+        "Windows,macOS,Linux,FreeBSD,Solaris,NetWare"
+    ],
+    "Gênero(s)": [
+        "Gênero(s)",
+        "Software wiki"
+    ],
+    "Licença": [
+        "Licença",
+        "GNU GPLversão 2[3]"
+    ],
+    "Estado do desenvolvimento": [
+        "Estado do desenvolvimento",
+        "Ativo"
+    ],
+    "Tamanho": [
+        "Tamanho",
+        "cerca de 48,4MB(comprimido)"
+    ],
+    "Página oficial": [
+        "Página oficial",
+        "www.mediawiki.org/wiki/MediaWiki"
+    ],
+    "Repositório": [
+        "Repositório",
+        "gerrit.wikimedia.org/g/mediawiki/core/"
+    ]
+}

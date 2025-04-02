@@ -1,0 +1,95 @@
+{
+    "Título": "Tanque Merkava",
+    "Tanque Merkava": [],
+    "Tipo": [
+        "Tipo",
+        "Carro de combateprincipal de batalha"
+    ],
+    "Local de origem": [
+        "Local de origem",
+        "Israel"
+    ],
+    "História operacional": [],
+    "Em serviço": [
+        "Em serviço",
+        "1979-presente"
+    ],
+    "Utilizadores": [
+        "Utilizadores",
+        "Forças de Defesa de Israel"
+    ],
+    "Guerras": [
+        "Guerras",
+        "Guerra do Líbano de 1982,Conflito no sul do Líbano,Primeira Intifada,Segunda Intifada,Guerra do Líbano de 2006,Operação Pilar Defensivo,Operação Margem ProtetoraConflito israelo-palestino de 2023"
+    ],
+    "Histórico de produção": [],
+    "Fabricante": [
+        "Fabricante",
+        "MANTAK/Israel Military Industries - IMI"
+    ],
+    "Período deprodução": [
+        "Período deprodução",
+        "1979-presente"
+    ],
+    "Quantidadeproduzida": [
+        "Quantidadeproduzida",
+        "Mark I: 250Mark II: 580Mark III: 780Mark IV: 360"
+    ],
+    "Especificações": [],
+    "Peso": [
+        "Peso",
+        "65ton"
+    ],
+    "Comprimento": [
+        "Comprimento",
+        "9,04 m"
+    ],
+    "Largura": [
+        "Largura",
+        "3,72 m"
+    ],
+    "Altura": [
+        "Altura",
+        "2,66 m"
+    ],
+    "Tripulação": [
+        "Tripulação",
+        "4 (comandante, piloto, armeiro e carregador) a 6"
+    ],
+    "Blindagem do veículo": [
+        "Blindagem do veículo",
+        "Composta (componentes confidenciais)"
+    ],
+    "Armamentoprimário": [
+        "Armamentoprimário",
+        "Um Canhão de 120mm L/44 (Calibre: 120 mm - alcance estimado de 0,5 km a 5,5 km)"
+    ],
+    "Armamentosecundário": [
+        "Armamentosecundário",
+        "Uma metralhadora de 12,7 mmBrowning M2, um lançador de morteiro de 60 mm e duas metralhadorasM249de 7,62 mm"
+    ],
+    "Motor": [
+        "Motor",
+        "Um motor GD 883V-12DIESEL1500cv"
+    ],
+    "Peso/potência": [
+        "Peso/potência",
+        "23 hp/ton"
+    ],
+    "Suspensão": [
+        "Suspensão",
+        "Molas helicoidais"
+    ],
+    "Capacidade de combustível": [
+        "Capacidade de combustível",
+        "1400l"
+    ],
+    "Alcanceoperacional(veículo)": [
+        "Alcanceoperacional(veículo)",
+        "311mi(501km)"
+    ],
+    "Velocidade": [
+        "Velocidade",
+        "65 km/h estrada e 55 km/h terreno irregular"
+    ]
+}

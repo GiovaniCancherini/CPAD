@@ -1,0 +1,24 @@
+{
+    "Título": "MusicBrainz",
+    "MusicBrainz": [],
+    "Requer pagamento?": [
+        "Requer pagamento?",
+        "Não"
+    ],
+    "Gênero": [
+        "Gênero",
+        "Banco de Dados,Enciclopédia"
+    ],
+    "Cadastro": [
+        "Cadastro",
+        "Gratuito"
+    ],
+    "Idioma(s)": [
+        "Idioma(s)",
+        "Inglês"
+    ],
+    "Endereço eletrônico": [
+        "Endereço eletrônico",
+        "musicbrainz.org"
+    ]
+}

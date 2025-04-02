@@ -1,0 +1,52 @@
+{
+    "Título": "Java",
+    "Java": [],
+    "Paradigma": [
+        "Paradigma",
+        "orientada a objetosestruturadaimperativagenéricafuncionalreflexivaconcorrente"
+    ],
+    "Surgido em": [
+        "Surgido em",
+        "23 de maiode1995(29 anos)"
+    ],
+    "Últimaversão": [
+        "Últimaversão",
+        "23(17 de setembro de 2024; há 6 meses[1])"
+    ],
+    "Criado por": [
+        "Criado por",
+        "James GoslingSun Microsystems"
+    ],
+    "Estilo de tipagem": [
+        "Estilo de tipagem",
+        "estáticaforte"
+    ],
+    "Principais implementações": [
+        "Principais implementações",
+        "GCJJavac"
+    ],
+    "Influenciada por": [
+        "Influenciada por",
+        "Ada 83C++C#[2]EiffelGeneric JavaMesaModula-3Object PascalObjective-CUCSD PascalSmalltalk"
+    ],
+    "Influenciou": [
+        "Influenciou",
+        "Ada 2005BeanShellC#[3]ClojureDECMAScriptFantomGroovyJ#JavaScriptPHPPythonScala"
+    ],
+    "Plataforma": [
+        "Plataforma",
+        "ARTDalvikGraalVMHotSpotOpenJDKSuperWaba"
+    ],
+    "Licença": [
+        "Licença",
+        "GNU General Public License/Java Community Process"
+    ],
+    "Extensão do arquivo": [
+        "Extensão do arquivo",
+        ".java.class.jar.war"
+    ],
+    "Página oficial": [
+        "Página oficial",
+        "www.oracle.com/java/"
+    ]
+}

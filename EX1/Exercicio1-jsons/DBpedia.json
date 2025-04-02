@@ -1,0 +1,28 @@
+{
+    "Título": "DBpedia",
+    "DBpedia": [],
+    "Desenvolvedor": [
+        "Desenvolvedor",
+        "Universidade de Leipzig,Freie Universität Berlin,OpenLink Software"
+    ],
+    "Lançamento": [
+        "Lançamento",
+        "23 de janeirode2007(18 anos)"
+    ],
+    "Versãoestável": [
+        "Versãoestável",
+        "DBpedia 3.8"
+    ],
+    "Escrito em": [
+        "Escrito em",
+        "Scala,Java"
+    ],
+    "Licença": [
+        "Licença",
+        "GNU General Public License"
+    ],
+    "Página oficial": [
+        "Página oficial",
+        "dbpedia.org."
+    ]
+}
