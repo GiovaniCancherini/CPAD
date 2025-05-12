@@ -61,7 +61,11 @@ plt.tight_layout()
 plt.savefig("boxplot.png")
 plt.show()
 
-print("Análise: O boxplot mostra que a espécie Gentoo tem, em média, o maior comprimento de bico, seguida da Chinstrap e da Adelie. Há sobreposição entre Adelie e Chinstrap.")
+print("""Análise: 
+O boxplot mostra que a espécie Chinstrap tem, em média, o maior comprimento de bico, 
+seguida de Gentoo e da Adelie. 
+Há sobreposição entre Gentoo e Chinstrap.
+""")
 
 ########################################################################################
 
@@ -77,4 +81,8 @@ plt.tight_layout()
 plt.savefig("scatterplot.png")
 plt.show()
 
-print("Análise: O scatter plot mostra que as espécies se distribuem em regiões distintas. A Gentoo possui bicos mais longos e menos profundos, enquanto a Adelie tem bicos mais curtos e profundos.")
+print("""Análise: 
+Adelie possui bicos mais curtos, porém mais profundos;
+Gentoo possui bicos mais longos, porém menos profundos;
+Chinstrap possui bicos mais longos e mais profundos;
+""")
