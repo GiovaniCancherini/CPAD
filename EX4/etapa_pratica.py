@@ -54,8 +54,8 @@ print("""
 """)
 
 plt.figure(figsize=(10, 6))
-sns.boxplot(data=df, x='Species', y='Culmen Length (mm)', palette='Set1')
-plt.title('Comprimento do Bico / Espécie')
+sns.boxplot(data=df, x='Island', y='Culmen Length (mm)', hue='Species', palette='Set1')
+plt.title('Comprimento do Bico vs. Espécie por Ilha')
 plt.xticks(rotation=15)
 plt.tight_layout()
 plt.savefig("boxplot.png")
@@ -72,7 +72,7 @@ print("""
 # Scatterplot: Comparação entre comprimento e profundidade do bico por espécie
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=df, x='Culmen Length (mm)', y='Culmen Depth (mm)', hue='Species', palette='Set1')
-plt.title('Comprimento vs. Profundidade do Bico / Espécie')
+plt.title('Comprimento vs. Profundidade do Bico por Espécie')
 plt.tight_layout()
 plt.savefig("scatterplot.png")
 plt.show()
