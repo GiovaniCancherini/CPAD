@@ -27,11 +27,3 @@ deactivate
 ```sh
 pip install -r requirements.txt
 ```
-
-## Versões utilizadas
-
-- Python 3.12.6
-- PyOpenGL 3.1.9
-- PyOpenGL-accelerate 3.1.9
-
----

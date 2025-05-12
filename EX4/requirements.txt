@@ -1,0 +1,5 @@
+# Ambiente: Python 3.12.6
+pandas
+numpy
+beautifulsoup4==4.12.3
+notebook==7.1.3
