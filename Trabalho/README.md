@@ -12,9 +12,26 @@ Este projeto analisa os dados de concessão de bolsas do Prouni de 2017 a 2020 p
 - Visualizações comparativas
 
 
+## Instalando ambiente de Desenvolvimento (venv)
+```sh
+python -m pip install --upgrade pip # atualizar pip
+
+python -m venv cpad-venv            # criar ambiente venv
+cpad-venv\Scripts\activate          # ativar ambiente
+deactivate                          # desativar ambiente
+```
+### Instalando requisitos
+```sh
+pip install -r requirements.txt     # instalar requisitos
+```
+
 ## Requisitos
-- Python 3.8+
+- Python 3.12+
 - Pandas, Matplotlib, Seaborn
+### Instalando requisitos
+```sh
+pip install -r requirements.txt
+```
 
 
 ## Estrutura
