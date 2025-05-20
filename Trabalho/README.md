@@ -1,7 +1,20 @@
 # Trabalho Extensionista 
 
+##  Análise de Bolsas Prouni (2017–2020)
+
+Este projeto analisa os dados de concessão de bolsas do Prouni de 2017 a 2020 para investigar possíveis mudanças no perfil dos alunos beneficiados, com foco no impacto da pandemia em 2020.
 
 
+## Etapas
+- Carregamento e unificação dos dados
+- Limpeza e pré-processamento
+- Análise exploratória
+- Visualizações comparativas
+
+
+## Requisitos
+- Python 3.8+
+- Pandas, Matplotlib, Seaborn
 
 
 ## Estrutura
@@ -29,5 +42,4 @@ prouni_analysis/
 │
 ├── README.md                  # Breve descrição do projeto
 └── requirements.txt           # Dependências
-
 ```
